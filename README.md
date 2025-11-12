@@ -23,13 +23,13 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sneha-saha-b40068258" target="blank">
+  <a href="https://www.linkedin.com/in/bidita-mitra/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/snehasaha795/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:its.me.sneha795@gmail.com" target="blank">
+  <a href="mailto:biditamitra85@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
